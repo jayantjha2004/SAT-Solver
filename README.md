@@ -1,5 +1,5 @@
 # SAT_Solver
-Implemented a SAT Solver using C++ as a part of course project
+Implemented a SAT Solver using C++
 
 ## Instructions to run
 
